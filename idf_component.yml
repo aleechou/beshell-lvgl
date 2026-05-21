@@ -1,0 +1,18 @@
+name: "beshell-lvgl"
+version: "1.0.0"
+description: "LVGL GUI/Graphics library wrapper for BeShell"
+keywords:
+  - "JavaScript"
+  - "QuickJS"
+  - "GUI"
+  - "LVGL"
+authors:
+  - "alee201@163.com"
+homepage: "https://beshell.become.cool"
+url: "https://beshell.become.cool"
+repository: "https://github.com/become-cool/beshell-lvgl.git"
+license: "LGPL"
+dependencies:
+  "become-cool/beshell":
+    version: ">=1.0.12"
+
