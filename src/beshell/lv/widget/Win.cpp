@@ -79,7 +79,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Win_addTitle
     /**
-     * > 该方法是对 LVGL C API `lv_win_add_title` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_win_add_title` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Win

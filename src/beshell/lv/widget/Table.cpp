@@ -110,7 +110,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Table_setCellValue
     /**
-     * > 该方法是对 LVGL C API `lv_table_set_cell_value` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_table_set_cell_value` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Table
@@ -139,7 +139,7 @@ namespace be::lv {
 
     #ifndef METHOD_Table_setColumnWidth
     /**
-     * > 该方法是对 LVGL C API `lv_table_set_column_width` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_table_set_column_width` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Table
@@ -164,7 +164,7 @@ namespace be::lv {
 
     #ifndef METHOD_Table_addCellCtrl
     /**
-     * > 该方法是对 LVGL C API `lv_table_add_cell_ctrl` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_table_add_cell_ctrl` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Table
@@ -198,7 +198,7 @@ namespace be::lv {
 
     #ifndef METHOD_Table_clearCellCtrl
     /**
-     * > 该方法是对 LVGL C API `lv_table_clear_cell_ctrl` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_table_clear_cell_ctrl` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Table
@@ -238,7 +238,7 @@ namespace be::lv {
 
     #ifndef METHOD_Table_getColumnWidth
     /**
-     * > 该方法是对 LVGL C API `lv_table_get_column_width` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_table_get_column_width` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Table
@@ -260,7 +260,7 @@ namespace be::lv {
 
     #ifndef METHOD_Table_hasCellCtrl
     /**
-     * > 该方法是对 LVGL C API `lv_table_has_cell_ctrl` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_table_has_cell_ctrl` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Table

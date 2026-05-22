@@ -43,7 +43,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_List_addText
     /**
-     * > 该方法是对 LVGL C API `lv_list_add_text` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_list_add_text` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class List
@@ -69,7 +69,7 @@ namespace be::lv {
 
     #ifndef METHOD_List_setButtonText
     /**
-     * > 该方法是对 LVGL C API `lv_list_set_button_text` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_list_set_button_text` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class List

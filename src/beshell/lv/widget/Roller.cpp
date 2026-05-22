@@ -110,7 +110,7 @@ namespace be::lv {
 
     #ifndef METHOD_Roller_setOptions
     /**
-     * > 该方法是对 LVGL C API `lv_roller_set_options` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_roller_set_options` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Roller
@@ -137,7 +137,7 @@ namespace be::lv {
 
     #ifndef METHOD_Roller_setSelected
     /**
-     * > 该方法是对 LVGL C API `lv_roller_set_selected` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_roller_set_selected` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Roller
@@ -167,7 +167,7 @@ namespace be::lv {
 
     #ifndef METHOD_Roller_getSelectedStr
     /**
-     * > 该方法是对 LVGL C API `lv_roller_get_selected_str` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_roller_get_selected_str` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Roller

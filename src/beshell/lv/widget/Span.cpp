@@ -253,7 +253,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Span_newSpan
     /**
-     * > 该方法是对 LVGL C API `lv_spangroup_new_span` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spangroup_new_span` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Span
@@ -273,7 +273,7 @@ namespace be::lv {
 
     #ifndef METHOD_Span_getChild
     /**
-     * > 该方法是对 LVGL C API `lv_spangroup_get_child` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spangroup_get_child` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Span
@@ -295,7 +295,7 @@ namespace be::lv {
 
     #ifndef METHOD_Span_getExpandWidth
     /**
-     * > 该方法是对 LVGL C API `lv_spangroup_get_expand_width` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spangroup_get_expand_width` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Span
@@ -317,7 +317,7 @@ namespace be::lv {
 
     #ifndef METHOD_Span_getExpandHeight
     /**
-     * > 该方法是对 LVGL C API `lv_spangroup_get_expand_height` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spangroup_get_expand_height` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Span
@@ -339,7 +339,7 @@ namespace be::lv {
 
     #ifndef METHOD_Span_refrMode
     /**
-     * > 该方法是对 LVGL C API `lv_spangroup_refr_mode` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spangroup_refr_mode` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Span

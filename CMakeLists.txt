@@ -3,10 +3,10 @@ cmake_minimum_required(VERSION 3.24)
 
 # 源码目录
 file(GLOB_RECURSE src_beshell_component
-        src/beshell/lvgl/*.c
-        src/beshell/lvgl/*.cpp
-        src/beshell/lvgl/ext/*.cpp
-        src/beshell/lvgl/widget/*.cpp
+        src/beshell/lv/*.c
+        src/beshell/lv/*.cpp
+        src/beshell/lv/ext/*.cpp
+        src/beshell/lv/widget/*.cpp
     )
 
 # mongoose
@@ -20,7 +20,9 @@ idf_component_register(
         INCLUDE_DIRS 
             ./src
         PRIV_REQUIRES
+            esp_timer
             beshell
+            beshell-drv-disp
 )
 
 target_include_directories(${COMPONENT_LIB} PRIVATE src/beshell/lvgl deps/lvgl deps/lvgl/src) 

@@ -3,6 +3,9 @@
 #include "all-widgets.hpp"
 #include <cassert>
 #include "Style.hpp"
+#include "lvgl.h"
+#include <esp_timer.h>
+#include <beshell/driver/disp/Display.hpp>
 
 using namespace std ;
 using namespace be::driver::disp ;
@@ -16,7 +19,7 @@ namespace be::lv {
     bool LV::useFont = true ;
     bool LV::useImg = true ;
     
-    std::map<std::string, const lv_image_dsc_t  *> LV::embededImages ;
+    std::map<std::string, const void *> LV::embededImages ;
 
     LV::LV(JSContext * ctx, const char * name)
         : NativeModule(ctx, name, 0)
@@ -189,7 +192,7 @@ namespace be::lv {
         return JS_UNDEFINED ;
     }
 
-    void LV::addImageDsc(const char * name, const lv_image_dsc_t  * imgDsc) {
+    void LV::addImageDsc(const char * name, const void * imgDsc) {
         LV::embededImages[name] = imgDsc ;
     }
     

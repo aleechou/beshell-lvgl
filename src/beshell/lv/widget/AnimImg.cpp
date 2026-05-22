@@ -127,7 +127,7 @@ namespace be::lv {
 
     #ifndef METHOD_AnimImg_start
     /**
-     * > 该方法是对 LVGL C API `lv_animimg_start` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_animimg_start` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class AnimImg

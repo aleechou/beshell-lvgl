@@ -286,7 +286,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Scale_setRange
     /**
-     * > 该方法是对 LVGL C API `lv_scale_set_range` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_scale_set_range` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Scale
@@ -311,7 +311,7 @@ namespace be::lv {
 
     #ifndef METHOD_Scale_setLineNeedleValue
     /**
-     * > 该方法是对 LVGL C API `lv_scale_set_line_needle_value` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_scale_set_line_needle_value` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Scale
@@ -337,7 +337,7 @@ namespace be::lv {
 
     #ifndef METHOD_Scale_setImageNeedleValue
     /**
-     * > 该方法是对 LVGL C API `lv_scale_set_image_needle_value` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_scale_set_image_needle_value` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Scale

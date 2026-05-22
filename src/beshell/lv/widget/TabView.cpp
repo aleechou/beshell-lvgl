@@ -170,7 +170,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_TabView_addTab
     /**
-     * > 该方法是对 LVGL C API `lv_tabview_add_tab` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_tabview_add_tab` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TabView
@@ -190,7 +190,7 @@ namespace be::lv {
 
     #ifndef METHOD_TabView_renameTab
     /**
-     * > 该方法是对 LVGL C API `lv_tabview_rename_tab` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_tabview_rename_tab` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TabView
@@ -212,7 +212,7 @@ namespace be::lv {
 
     #ifndef METHOD_TabView_setActive
     /**
-     * > 该方法是对 LVGL C API `lv_tabview_set_active` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_tabview_set_active` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TabView

@@ -1,6 +1,6 @@
 #pragma once
 
-#include <NativeClass.hpp>
+#include <beshell/NativeClass.hpp>
 #include "lvgl.h"
 
 namespace be::lv {

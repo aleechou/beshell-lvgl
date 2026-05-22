@@ -1,6 +1,6 @@
 #include "LV.hpp"
 #include "lvgl.h"
-#include "driver/input/InDevPointer.hpp"
+#include <beshell/driver/input/InDevPointer.hpp>
 
 using namespace std ;
 

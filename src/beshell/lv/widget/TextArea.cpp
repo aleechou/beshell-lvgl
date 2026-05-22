@@ -436,7 +436,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_TextArea_addChar
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_add_char` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_add_char` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -457,7 +457,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_addText
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_add_text` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_add_text` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -475,7 +475,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_deleteChar
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_delete_char` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_delete_char` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -491,7 +491,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_deleteCharForward
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_delete_char_forward` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_delete_char_forward` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -507,7 +507,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_textIsSelected
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_text_is_selected` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_text_is_selected` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -524,7 +524,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_clearSelection
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_clear_selection` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_clear_selection` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -540,7 +540,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_cursorRight
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_cursor_right` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_cursor_right` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -556,7 +556,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_cursorLeft
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_cursor_left` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_cursor_left` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -572,7 +572,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_cursorDown
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_cursor_down` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_cursor_down` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea
@@ -588,7 +588,7 @@ namespace be::lv {
 
     #ifndef METHOD_TextArea_cursorUp
     /**
-     * > 该方法是对 LVGL C API `lv_textarea_cursor_up` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_textarea_cursor_up` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TextArea

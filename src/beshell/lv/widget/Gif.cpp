@@ -1,4 +1,4 @@
-#include <BeShell.hpp>
+#include <beshell/BeShell.hpp>
 #include "Gif.hpp"
 // #include "lv_gif.h"
 
@@ -63,7 +63,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Gif_restart
     /**
-     * > 该方法是对 LVGL C API `lv_gif_restart` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_gif_restart` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Gif
@@ -79,7 +79,7 @@ namespace be::lv {
 
     #ifndef METHOD_Gif_pause
     /**
-     * > 该方法是对 LVGL C API `lv_gif_pause` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_gif_pause` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Gif
@@ -95,7 +95,7 @@ namespace be::lv {
 
     #ifndef METHOD_Gif_resume
     /**
-     * > 该方法是对 LVGL C API `lv_gif_resume` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_gif_resume` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Gif

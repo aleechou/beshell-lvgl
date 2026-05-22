@@ -1,6 +1,6 @@
 #include "LV.hpp"
 #include "lvgl.h"
-#include "driver/disp/Display.hpp"
+#include <beshell/driver/disp/Display.hpp>
 
 using namespace std ;
 using namespace be::driver::disp ;

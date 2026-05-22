@@ -79,7 +79,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Calendar_setTodayDate
     /**
-     * > 该方法是对 LVGL C API `lv_calendar_set_today_date` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_calendar_set_today_date` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Calendar
@@ -108,7 +108,7 @@ namespace be::lv {
 
     #ifndef METHOD_Calendar_setShowedDate
     /**
-     * > 该方法是对 LVGL C API `lv_calendar_set_showed_date` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_calendar_set_showed_date` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Calendar
@@ -139,7 +139,7 @@ namespace be::lv {
 
     #ifndef METHOD_Calendar_headerArrowCreate
     /**
-     * > 该方法是对 LVGL C API `lv_calendar_header_arrow_create` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_calendar_header_arrow_create` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Calendar
@@ -156,7 +156,7 @@ namespace be::lv {
 
     #ifndef METHOD_Calendar_headerDropdownCreate
     /**
-     * > 该方法是对 LVGL C API `lv_calendar_header_dropdown_create` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_calendar_header_dropdown_create` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Calendar
@@ -173,7 +173,7 @@ namespace be::lv {
 
     #ifndef METHOD_Calendar_headerDropdownSetYearList
     /**
-     * > 该方法是对 LVGL C API `lv_calendar_header_dropdown_set_year_list` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_calendar_header_dropdown_set_year_list` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Calendar

@@ -1,5 +1,5 @@
 #include "Img.hpp"
-#include "BeShell.hpp"
+#include <beshell/BeShell.hpp>
 #include <string.h>
 #include <cstring>
 
@@ -454,7 +454,7 @@ namespace be::lv {
 
     #ifndef METHOD_Img_setPivot
     /**
-     * > 该方法是对 LVGL C API `lv_image_set_pivot` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_image_set_pivot` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Img

@@ -2,8 +2,11 @@
 
 #include <beshell/BeShell.hpp>
 #include <beshell/NativeModule.hpp>
-#include <lvgl.h>
-#include <esp_timer.h>
+
+struct _lv_font_t;
+typedef struct _lv_font_t lv_font_t;
+struct esp_timer;
+typedef struct esp_timer* esp_timer_handle_t;
 
 namespace be {
 namespace lv {
@@ -17,7 +20,7 @@ namespace lv {
     public:
         static bool useFont ;
         static bool useImg ;
-        static std::map<std::string, const lv_image_dsc_t  *> embededImages ;
+        static std::map<std::string, const void *> embededImages ;
 
     public:
 
@@ -42,6 +45,6 @@ namespace lv {
         static JSValue enableAllInDev(JSContext *ctx, JSValueConst this_val, int argc, JSValueConst *argv) ;
 
         static void loadFont(std::string name, lv_font_t * font) ;
-        static void addImageDsc(const char * name, const lv_image_dsc_t *) ;
+        static void addImageDsc(const char * name, const void *) ;
     } ;
 }}

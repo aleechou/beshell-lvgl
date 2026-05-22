@@ -269,7 +269,7 @@ namespace be::lv {
 
     #ifndef METHOD_Menu_contCreate
     /**
-     * > 该方法是对 LVGL C API `lv_menu_cont_create` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_menu_cont_create` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Menu
@@ -286,7 +286,7 @@ namespace be::lv {
 
     #ifndef METHOD_Menu_sectionCreate
     /**
-     * > 该方法是对 LVGL C API `lv_menu_section_create` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_menu_section_create` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Menu
@@ -303,7 +303,7 @@ namespace be::lv {
 
     #ifndef METHOD_Menu_separatorCreate
     /**
-     * > 该方法是对 LVGL C API `lv_menu_separator_create` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_menu_separator_create` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Menu
@@ -320,7 +320,7 @@ namespace be::lv {
 
     #ifndef METHOD_Menu_setLoadPageEvent
     /**
-     * > 该方法是对 LVGL C API `lv_menu_set_load_page_event` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_menu_set_load_page_event` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Menu
@@ -339,7 +339,7 @@ namespace be::lv {
 
     #ifndef METHOD_Menu_backButtonIsRoot
     /**
-     * > 该方法是对 LVGL C API `lv_menu_back_button_is_root` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_menu_back_button_is_root` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Menu
@@ -358,7 +358,7 @@ namespace be::lv {
 
     #ifndef METHOD_Menu_clearHistory
     /**
-     * > 该方法是对 LVGL C API `lv_menu_clear_history` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_menu_clear_history` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Menu

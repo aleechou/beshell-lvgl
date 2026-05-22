@@ -194,7 +194,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Chart_setRange
     /**
-     * > 该方法是对 LVGL C API `lv_chart_set_range` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_chart_set_range` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Chart
@@ -228,7 +228,7 @@ namespace be::lv {
 
     #ifndef METHOD_Chart_setDivLineCount
     /**
-     * > 该方法是对 LVGL C API `lv_chart_set_div_line_count` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_chart_set_div_line_count` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Chart
@@ -259,7 +259,7 @@ namespace be::lv {
 
     #ifndef METHOD_Chart_refresh
     /**
-     * > 该方法是对 LVGL C API `lv_chart_refresh` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_chart_refresh` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Chart

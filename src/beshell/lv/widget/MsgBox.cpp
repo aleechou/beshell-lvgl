@@ -124,7 +124,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_MsgBox_addTitle
     /**
-     * > 该方法是对 LVGL C API `lv_msgbox_add_title` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_msgbox_add_title` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class MsgBox
@@ -147,7 +147,7 @@ namespace be::lv {
 
     #ifndef METHOD_MsgBox_addText
     /**
-     * > 该方法是对 LVGL C API `lv_msgbox_add_text` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_msgbox_add_text` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class MsgBox
@@ -167,7 +167,7 @@ namespace be::lv {
 
     #ifndef METHOD_MsgBox_addFooterButton
     /**
-     * > 该方法是对 LVGL C API `lv_msgbox_add_footer_button` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_msgbox_add_footer_button` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class MsgBox
@@ -187,7 +187,7 @@ namespace be::lv {
 
     #ifndef METHOD_MsgBox_addCloseButton
     /**
-     * > 该方法是对 LVGL C API `lv_msgbox_add_close_button` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_msgbox_add_close_button` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class MsgBox
@@ -204,7 +204,7 @@ namespace be::lv {
 
     #ifndef METHOD_MsgBox_close
     /**
-     * > 该方法是对 LVGL C API `lv_msgbox_close` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_msgbox_close` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class MsgBox
@@ -220,7 +220,7 @@ namespace be::lv {
 
     #ifndef METHOD_MsgBox_closeAsync
     /**
-     * > 该方法是对 LVGL C API `lv_msgbox_close_async` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_msgbox_close_async` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class MsgBox

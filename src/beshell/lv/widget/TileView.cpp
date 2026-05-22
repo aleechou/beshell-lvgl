@@ -59,7 +59,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_TileView_addTile
     /**
-     * > 该方法是对 LVGL C API `lv_tileview_add_tile` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_tileview_add_tile` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TileView
@@ -94,7 +94,7 @@ namespace be::lv {
 
     #ifndef METHOD_TileView_setTile
     /**
-     * > 该方法是对 LVGL C API `lv_tileview_set_tile` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_tileview_set_tile` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TileView
@@ -121,7 +121,7 @@ namespace be::lv {
 
     #ifndef METHOD_TileView_setTileByIndex
     /**
-     * > 该方法是对 LVGL C API `lv_tileview_set_tile_by_index` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_tileview_set_tile_by_index` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class TileView

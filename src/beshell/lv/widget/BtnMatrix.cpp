@@ -159,7 +159,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_BtnMatrix_setButtonCtrl
     /**
-     * > 该方法是对 LVGL C API `lv_buttonmatrix_set_button_ctrl` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_buttonmatrix_set_button_ctrl` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class BtnMatrix
@@ -189,7 +189,7 @@ namespace be::lv {
 
     #ifndef METHOD_BtnMatrix_clearButtonCtrl
     /**
-     * > 该方法是对 LVGL C API `lv_buttonmatrix_clear_button_ctrl` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_buttonmatrix_clear_button_ctrl` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class BtnMatrix
@@ -219,7 +219,7 @@ namespace be::lv {
 
     #ifndef METHOD_BtnMatrix_clearButtonCtrlAll
     /**
-     * > 该方法是对 LVGL C API `lv_buttonmatrix_clear_button_ctrl_all` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_buttonmatrix_clear_button_ctrl_all` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class BtnMatrix
@@ -245,7 +245,7 @@ namespace be::lv {
 
     #ifndef METHOD_BtnMatrix_setButtonWidth
     /**
-     * > 该方法是对 LVGL C API `lv_buttonmatrix_set_button_width` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_buttonmatrix_set_button_width` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class BtnMatrix
@@ -273,7 +273,7 @@ namespace be::lv {
 
     #ifndef METHOD_BtnMatrix_hasButtonCtrl
     /**
-     * > 该方法是对 LVGL C API `lv_buttonmatrix_has_button_ctrl` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_buttonmatrix_has_button_ctrl` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class BtnMatrix

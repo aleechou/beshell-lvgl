@@ -82,7 +82,7 @@ namespace be::lv {
 
     #ifndef METHOD_Slider_isDragged
     /**
-     * > 该方法是对 LVGL C API `lv_slider_is_dragged` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_slider_is_dragged` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Slider

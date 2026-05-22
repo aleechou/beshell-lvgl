@@ -183,7 +183,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_SpinBox_setDigitFormat
     /**
-     * > 该方法是对 LVGL C API `lv_spinbox_set_digit_format` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spinbox_set_digit_format` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class SpinBox
@@ -208,7 +208,7 @@ namespace be::lv {
 
     #ifndef METHOD_SpinBox_setRange
     /**
-     * > 该方法是对 LVGL C API `lv_spinbox_set_range` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spinbox_set_range` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class SpinBox
@@ -233,7 +233,7 @@ namespace be::lv {
 
     #ifndef METHOD_SpinBox_stepNext
     /**
-     * > 该方法是对 LVGL C API `lv_spinbox_step_next` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spinbox_step_next` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class SpinBox
@@ -249,7 +249,7 @@ namespace be::lv {
 
     #ifndef METHOD_SpinBox_stepPrev
     /**
-     * > 该方法是对 LVGL C API `lv_spinbox_step_prev` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spinbox_step_prev` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class SpinBox
@@ -265,7 +265,7 @@ namespace be::lv {
 
     #ifndef METHOD_SpinBox_increment
     /**
-     * > 该方法是对 LVGL C API `lv_spinbox_increment` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spinbox_increment` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class SpinBox
@@ -281,7 +281,7 @@ namespace be::lv {
 
     #ifndef METHOD_SpinBox_decrement
     /**
-     * > 该方法是对 LVGL C API `lv_spinbox_decrement` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_spinbox_decrement` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class SpinBox

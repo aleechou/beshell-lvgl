@@ -410,7 +410,7 @@ namespace be::lv {
 
     #ifndef METHOD_Arc_setAngles
     /**
-     * > 该方法是对 LVGL C API `lv_arc_set_angles` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_arc_set_angles` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Arc
@@ -435,7 +435,7 @@ namespace be::lv {
 
     #ifndef METHOD_Arc_setBgAngles
     /**
-     * > 该方法是对 LVGL C API `lv_arc_set_bg_angles` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_arc_set_bg_angles` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Arc
@@ -460,7 +460,7 @@ namespace be::lv {
 
     #ifndef METHOD_Arc_setRange
     /**
-     * > 该方法是对 LVGL C API `lv_arc_set_range` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_arc_set_range` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Arc
@@ -485,7 +485,7 @@ namespace be::lv {
 
     #ifndef METHOD_Arc_alignObjToAngle
     /**
-     * > 该方法是对 LVGL C API `lv_arc_align_obj_to_angle` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_arc_align_obj_to_angle` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Arc
@@ -507,7 +507,7 @@ namespace be::lv {
 
     #ifndef METHOD_Arc_rotateObjToAngle
     /**
-     * > 该方法是对 LVGL C API `lv_arc_rotate_obj_to_angle` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_arc_rotate_obj_to_angle` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Arc

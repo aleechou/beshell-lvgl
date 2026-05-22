@@ -1,9 +1,9 @@
 #pragma once
 
 #include <memory>
-#include <JSEngine.hpp>
-#include <NativeClass.hpp>
-#include <misc/Ease.hpp>
+#include <beshell/JSEngine.hpp>
+#include <beshell/NativeClass.hpp>
+#include <beshell/misc/Ease.hpp>
 #include "widget/Obj.hpp"
 
 namespace be::lv {

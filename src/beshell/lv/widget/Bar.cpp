@@ -156,7 +156,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Bar_setValue
     /**
-     * > 该方法是对 LVGL C API `lv_bar_set_value` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_bar_set_value` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Bar
@@ -186,7 +186,7 @@ namespace be::lv {
 
     #ifndef METHOD_Bar_setStartValue
     /**
-     * > 该方法是对 LVGL C API `lv_bar_set_start_value` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_bar_set_start_value` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Bar
@@ -216,7 +216,7 @@ namespace be::lv {
 
     #ifndef METHOD_Bar_setRange
     /**
-     * > 该方法是对 LVGL C API `lv_bar_set_range` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_bar_set_range` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Bar
@@ -241,7 +241,7 @@ namespace be::lv {
 
     #ifndef METHOD_Bar_isSymmetrical
     /**
-     * > 该方法是对 LVGL C API `lv_bar_is_symmetrical` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_bar_is_symmetrical` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Bar

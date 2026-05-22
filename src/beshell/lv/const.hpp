@@ -1,6 +1,7 @@
 #pragma once
 #include "LV.hpp"
-#include "deps/quickjs/quickjs.h"
+#include "lvgl.h"
+#include <beshell/deps/quickjs/quickjs.h>
 
 namespace be::lv {
 

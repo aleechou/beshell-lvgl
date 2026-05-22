@@ -93,7 +93,7 @@ namespace be::lv {
 // AUTO GENERATE CODE START [METHODS] --------
     #ifndef METHOD_Led_on
     /**
-     * > 该方法是对 LVGL C API `lv_led_on` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_led_on` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Led
@@ -109,7 +109,7 @@ namespace be::lv {
 
     #ifndef METHOD_Led_off
     /**
-     * > 该方法是对 LVGL C API `lv_led_off` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_led_off` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Led
@@ -125,7 +125,7 @@ namespace be::lv {
 
     #ifndef METHOD_Led_toggle
     /**
-     * > 该方法是对 LVGL C API `lv_led_toggle` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_led_toggle` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Led

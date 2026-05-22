@@ -258,7 +258,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_addOption
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_add_option` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_add_option` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown
@@ -280,7 +280,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_clearOptions
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_clear_options` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_clear_options` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown
@@ -296,7 +296,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_getSelectedStr
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_get_selected_str` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_get_selected_str` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown
@@ -318,7 +318,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_getOptionIndex
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_get_option_index` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_get_option_index` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown
@@ -338,7 +338,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_open
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_open` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_open` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown
@@ -354,7 +354,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_close
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_close` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_close` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown
@@ -370,7 +370,7 @@ namespace be::lv {
 
     #ifndef METHOD_Dropdown_isOpen
     /**
-     * > 该方法是对 LVGL C API `lv_dropdown_is_open` 的封装，具体用法请参考  [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
+     * > 该方法是对 LVGL C API `lv_dropdown_is_open` 的封装，具体用法请参考 [LVGL文档](https://docs.lvgl.io/9.0/API/index.html)
      *
      * @module lv
      * @class Dropdown

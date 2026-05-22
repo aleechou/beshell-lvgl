@@ -15,4 +15,6 @@ license: "LGPL"
 dependencies:
   "become-cool/beshell":
     version: ">=1.0.12"
+  "become-cool/beshell-drv-disp":
+    version: ">=1.0.1"
 
