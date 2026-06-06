@@ -1,5 +1,5 @@
 name: "beshell-lvgl"
-version: "1.0.0"
+version: "1.0.1"
 description: "LVGL GUI/Graphics library wrapper for BeShell"
 keywords:
   - "JavaScript"
@@ -15,6 +15,6 @@ license: "LGPL"
 dependencies:
   "become-cool/beshell":
     version: ">=1.0.12"
-  "become-cool/beshell-drv-disp":
-    version: ">=1.0.1"
+  # "become-cool/beshell-drv-disp":
+  #   version: ">=1.0.1"
 

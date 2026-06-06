@@ -25,6 +25,7 @@ namespace be::lv {
         lv_font_t * font = lv_binfont_create(path.c_str());
         if(font) {
             loadedFonts[name] = font ;
+            suc = true ;
         } else {
             printf("Failed to load font %s\n, path: %s\n", name, cpath) ;
         }

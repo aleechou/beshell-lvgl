@@ -26,7 +26,7 @@ namespace be::lv {
      * 
      * @module lv
      * @function registerDisplay
-     * @param driver 屏幕驱动对象
+     * @param driver:Display 屏幕驱动对象
      * @return bool 是否注册成功
      */
     JSValue LV::registerDisplay(JSContext *ctx, JSValueConst this_val, int argc, JSValueConst *argv) {
