@@ -11,7 +11,7 @@ authors:
 homepage: "https://beshell.become.cool"
 url: "https://beshell.become.cool"
 repository: "https://github.com/become-cool/beshell-lvgl.git"
-license: "LGPL"
+license: "LGPL-3.0-or-later"
 dependencies:
   "become-cool/beshell":
     version: ">=1.0.12"
