@@ -2,21 +2,21 @@ cmake_minimum_required(VERSION 3.24)
 
 
 # 源码目录
-file(GLOB_RECURSE src_beshell_component
+file(GLOB_RECURSE src_beshell_lvgl
         src/beshell/lv/*.c
         src/beshell/lv/*.cpp
         src/beshell/lv/ext/*.cpp
         src/beshell/lv/widget/*.cpp
     )
 
-# mongoose
+# lvgl 源码目录
 file(GLOB_RECURSE src_lv  deps/lvgl/src/*.c)
 
 
 idf_component_register(
         SRCS
             ${src_lv}
-            ${src_beshell_component}
+            ${src_beshell_lvgl}
         INCLUDE_DIRS 
             ./src
         PRIV_REQUIRES
@@ -27,8 +27,8 @@ idf_component_register(
 
 target_include_directories(${COMPONENT_LIB} PRIVATE src/beshell/lvgl deps/lvgl deps/lvgl/src) 
 
-# # for mongoose tls/ssl
-add_definitions(-DMG_ENABLE_MBEDTLS)
+# # for mongoose tls/ssl — not needed in LVGL component
+# add_definitions(-DMG_ENABLE_MBEDTLS)
 # add_definitions(-DMG_ARCH_ESP32)
 # add_definitions(-DMG_ENABLE_OPENSSL)
 # add_definitions(-DMG_ENABLE_LINES)
